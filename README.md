@@ -1,7 +1,5 @@
 ### Hi there 👋
-I'm Mitong, a regular guy fascinated by knowledge😄😎. 
-
-Professionally though, I'm a Lawyer💼 and a Smart Contract Developer🕸️.
+I'm Mitong, a Lawyer💼 and a Smart Contract Developer🕸️.
 
 As a lawyer, my core areas of expertise are technology, commercial, corporate and regulatory law practice. I am passionate about the infusion of law and policy with technology for the improvement of human personal and commercial relations as well as the development of states and improvement of government processes.
 
