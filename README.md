@@ -2,11 +2,11 @@
 
 I'm Mitong, a Lawyer💼 and a Blockchain Developer🕸️.
 
-As a lawyer, my core areas of expertise are technology, commercial, corporate and regulatory law practice. I am passionate about the infusion of law and policy with technology for the improvement of human personal and commercial relations as well as the development of states and improvement of government processes.
+As a lawyer, my core areas of expertise are technology, commercial, corporate and regulatory law practice. I am passionate about the infusion of law and policy with technology to improve human personal and commercial relations, develop states, and improve government processes.
 
-As a developer, I am passionate about creating secure and efficient smart contracts as we build on the blockchain, I believe that the blockchain can help revolutionise how we interact on the web and with other technologies and I want to contribute to building that revolution..
+As a developer, I am enthusiastic about blockchain technology and its immense potential, the blockchain can help revolutionise how we interact on the web and with other technologies and I want to contribute to building that revolution.
 
-I love learning and exploring new technologies, and I am always looking out for opportunities for self improvement.
+I love learning and exploring new technologies, and I am always looking out for opportunities for self-improvement.
 
 ### 🔗 How to reach me:
 
