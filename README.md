@@ -6,7 +6,7 @@ As a lawyer, my core areas of expertise are technology, commercial, corporate an
 
 As a developer, I am enthusiastic about blockchain technology and its immense potential, the blockchain can help revolutionise how we interact on the web and with other technologies and I want to contribute to building that revolution.
 
-I love learning and exploring new technologies, and I am always looking out for opportunities for self-improvement.
+I love learning and exploring new technologies, and I am always looking out for opportunities for self-improvement. Currently, I am learning the Rust lang as well as Zero Knowledge (zk) rollups.
 
 ### 🔗 How to reach me:
 
