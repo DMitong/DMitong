@@ -15,7 +15,7 @@ I love learning and exploring new technologies, and I am always looking out for 
 
 ### Face Card:
 
-<img src="./images/FaceCard.png/" alt="About Me in one image">
+<img src="./images/FaceCard.svg/" alt="About Me in one image">
 
 <!--
 **DMitong/DMitong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
