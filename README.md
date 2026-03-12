@@ -15,7 +15,7 @@ I love learning and exploring new technologies, and I am always looking out for 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mitong-dapal/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DMitong)
 
-### Face Card:
+<!-- ### Face Card:
 
 <img src="./images/FaceCard.svg/" alt="About Me in one image">
 
